@@ -3,7 +3,7 @@
 # Demo link : http://www.bytesultra.com/demo/fancycheckbox 
 
 ## Purpoese of this Project 
-The main purpose of this project is just how to get a attractive Checkboxes and with css only. 
+The main purpose of this project is just how to get a attractive Checkboxes. 
 
 ## Bugs and feature requests
 
